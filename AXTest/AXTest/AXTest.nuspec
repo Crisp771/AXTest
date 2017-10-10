@@ -11,6 +11,6 @@
         <!-- ... -->
     </metadata>
   <files>
-    <file src="bin\Release\MyAssembly.*" target="lib" />
+    <file src=".\bin\Release\AXTest.*" target="lib\net45" />
   </files>
 </package>
