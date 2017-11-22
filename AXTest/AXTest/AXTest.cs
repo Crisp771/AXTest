@@ -10,7 +10,7 @@ namespace AXTest
     {
         public string HelloWorld()
         {
-            return "Hello, World!";
+            return "Hello, Bob!";
         }
 
     }

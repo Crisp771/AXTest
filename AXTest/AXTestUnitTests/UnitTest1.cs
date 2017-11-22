@@ -10,7 +10,7 @@ namespace AXTestUnitTests
         public void HelloWorldTest()
         {
             var Target = new AXTest.AXTest();
-            var Expected = "Hello, World!";
+            var Expected = "Hello, Bob!";
             var Actual = Target.HelloWorld();
 
             Assert.AreEqual(Expected, Actual);
